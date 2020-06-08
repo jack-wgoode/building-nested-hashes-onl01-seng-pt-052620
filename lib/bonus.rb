@@ -4,7 +4,7 @@ def bonus
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
       :hero => {name: "Romeo", age: "15", status: "alive"},
-      :hero_friends => [
+      :hero_friends => [https://learn.co/tracks/online-software-engineering-pt-first-mile/first-mile/data-structures/building-nested-hashes-lab#
          {name: "Benvolio", age: "17", attitude: "worried"},
          {name: "Steven", age: "30", attitude: "confused"}
       ]
